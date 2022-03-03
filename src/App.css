@@ -1,9 +1,13 @@
+header .Container {
+  border: 1px solid red;
+}
+
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 50vmin;
   pointer-events: none;
 }
 
@@ -26,6 +30,16 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Container {
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
+}
+
+td {
+  width: 50vw;
+  height: 40vh;
 }
 
 @keyframes App-logo-spin {
