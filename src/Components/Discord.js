@@ -5,6 +5,7 @@ class Discord extends Component {
         return (
             <div className="Container">
                 <h2>This is my discord window!</h2>
+                <p>This will be a UI to interact with discord.</p>
             </div>
         );
     }

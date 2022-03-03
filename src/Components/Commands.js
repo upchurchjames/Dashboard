@@ -5,7 +5,7 @@ class Commands extends Component {
         return (
             <div className="Container">
                 <h2>This is my commands window!</h2>
-                <p>Hopefully this will be filled with some buttons to do cool stuff</p>
+                <p>Hopefully this will have buttons to do cool stuff</p>
             </div>
         );
     }
